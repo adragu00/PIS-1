@@ -10,6 +10,7 @@ namespace pis_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("Sta ima?");
         }
     }
 }
