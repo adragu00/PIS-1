@@ -11,6 +11,7 @@ namespace pis_1
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Sta ima?");
+            Console.WriteLine("Dosada...");
         }
     }
 }
